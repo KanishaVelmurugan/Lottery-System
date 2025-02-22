@@ -1,2 +1,2 @@
-user_id,drawdate,user_number,match_status,ball1,ball2,ball3,ball4,ball5,encrypted_lottery
-,2025-02-22,,,41,44,8,26,23,
+user_id,drawdate,user_number,match_status,ball1,ball2,ball3,ball4,ball5,encrypted_lottery,ball1_encrypted,ball2_encrypted,ball3_encrypted,ball4_encrypted,ball5_encrypted
+,2025-02-22,,,,,,,,,EvgnYxHJPoJdzVxt3addcs8c0WZ8LNyDElMB9xYzuFk=,JKNVuc5iL/KnfXaGn08fA9KC8BY33Y1FNmdmFBpZXNw=,fZEWaHFnIFsCjuYJEtijZ4VEkU2TgnrfpeL/DNXVdIw=,a69zZOGCcuZz4XXaeXeZ5H49ChIiCBaIQmCvnGrPfuY=,FemuPVGDkxp1lWH+694ZJeHJffIipZsar+ZixQbRXNE=
